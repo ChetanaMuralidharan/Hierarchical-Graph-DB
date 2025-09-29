@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+python-dotenv
+celery[redis]
+chardet
+python-dateutil
+spacy
+# (transformers + torch if you’ll use HF models later)
